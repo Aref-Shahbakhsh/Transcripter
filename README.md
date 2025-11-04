@@ -5,3 +5,7 @@ Get transcript of video or audio from any language for free
 ```
 pip install faster_whisper
 ```
+* Then install the transcribe.exe by double click on it
+* You can either upload file or audio on application and get transcript from it, it works with any language.
+* if you like this software please give it an start to make it visible for others.
+  
