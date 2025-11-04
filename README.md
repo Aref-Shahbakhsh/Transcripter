@@ -7,5 +7,6 @@ pip install faster_whisper
 ```
 * Then install the transcribe.exe by double click on it
 * You can either upload file or audio on application and get transcript from it, it works with any language.
+* for installing you need to have Internet connection, but after that it works without having it. 
 * if you like this software please give it an start to make it visible for others.
   
